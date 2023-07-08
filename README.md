@@ -25,8 +25,8 @@ LangChain is a Python library designed to facilitate the use of Language Models 
 3. Set your OpenAI API key in the environment variables 🗝️
 
 ```bash
-git clone https://github.com/username/repository.git
-cd repository
+git clone [https://github.com/username/repository.git](https://github.com/vivek7208/langchain_vector_db.git)
+cd langchain_vector_db
 pip install -r requirements.txt
 export OPENAI_API_KEY="your_api_key_here"
 ```
